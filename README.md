@@ -14,3 +14,5 @@ https://github.com/CtrlAltExecute/AimAssist/assets/157523173/20bef9a4-349f-4b39-
 - 🔭 gazeline for accurate fire destination prediction <br /><br /> <img src="https://github.com/CtrlAltExecute/AimAssist/assets/157523173/9ab085e7-2d40-45f8-9443-94b23699b3bb" />
 
 - ⚙️ customizable keybinds and colors <br/><br /> <img src="https://github.com/CtrlAltExecute/AimAssist/assets/157523173/c0669831-287b-4f10-b492-f2b9768a9c18" />
+
+## → [get started](https://github.com/CtrlAltExecute/AimAssist/blob/main/tutorial.md) - it takes less than 5 minutes
