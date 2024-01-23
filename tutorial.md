@@ -1,9 +1,3 @@
-[install now](https://github.com/CtrlAltExecute/AimAssist/raw/main/dist/v1.0.0.user.js)
-
-**Note**: Read the instructions below before clicking this link.
-
-<hr />
-
 This quick read allows you to install and use AimAssist very quickly.
 
 # How to install
