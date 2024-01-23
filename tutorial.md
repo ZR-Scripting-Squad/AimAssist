@@ -20,7 +20,7 @@ Go to the Chrome Web Store and [install Tampermonkey](https://chromewebstore.goo
 
 If you are using Firefox, go to the Firefox Add-ons site and [install Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 
-This program shoud work with other userscript managers, but we only guarantee compatibility with these two.
+This program should work with other userscript managers, but we only guarantee compatibility with these two.
 
 ### Step 2: Install the program
 
