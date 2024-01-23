@@ -24,5 +24,19 @@ This program shoud work with other userscript managers, but we only guarantee co
 
 ### Step 2: Install the program
 
-Once you have finished installing the userscript manager, click the _install now_ link above. You should see a page like this:
+Once you have finished installing the userscript manager, click the _install now_ link above. You may need to wait a bit for the userscript manager to process it,  but you will see a page like this:
+
+![image](https://github.com/CtrlAltExecute/AimAssist/assets/157523173/84983b55-215d-42f0-b205-9143f3f41c13)
+
+Simply click "Install" and you're good to go!
+
+# How to Use
+
+Go to https://zombsroyale.io.
+
+Once the page has finished loading, a menu will appear on the top left.
+
+Simply click the 'Paused/Active' button to toggle the tool.
+
+https://github.com/CtrlAltExecute/AimAssist/assets/157523173/815f4637-cdf3-4293-82d9-d34bef9c278d
 
