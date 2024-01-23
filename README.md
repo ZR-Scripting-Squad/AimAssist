@@ -16,3 +16,9 @@ https://github.com/CtrlAltExecute/AimAssist/assets/157523173/20bef9a4-349f-4b39-
 - ⚙️ customizable keybinds and colors <br/><br /> <img src="https://github.com/CtrlAltExecute/AimAssist/assets/157523173/c0669831-287b-4f10-b492-f2b9768a9c18" />
 
 ## → [get started](https://github.com/CtrlAltExecute/AimAssist/blob/main/tutorial.md) - it takes less than 5 minutes
+
+### FAQ
+
+**Does this support client?**
+
+No. To ensure that this is undetectable, it only runs in the browser. The benefit of this is that it can be used on any browser, any device.
