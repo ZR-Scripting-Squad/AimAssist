@@ -24,7 +24,7 @@ This program should work with other userscript managers, but we only guarantee c
 
 ### Step 2: Install the program
 
-Once you have finished installing the userscript manager, click the _install now_ link above. You may need to wait a bit for the userscript manager to process it,  but you will see a page like this:
+Once you have finished installing the userscript manager, click this link: [install now](https://github.com/CtrlAltExecute/AimAssist/raw/main/dist/v1.0.0.user.js). You may need to wait a bit for the userscript manager to process it,  but you will see a page like this:
 
 ![image](https://github.com/CtrlAltExecute/AimAssist/assets/157523173/84983b55-215d-42f0-b205-9143f3f41c13)
 
