@@ -1,2 +1,3 @@
-# AimAssist
-Level up your ZombsRoyale aim.
+<p align="center">
+  <img src="logo.png" />
+</p>
