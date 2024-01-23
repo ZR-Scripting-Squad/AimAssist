@@ -2,7 +2,7 @@
 // @name         AimAssist for ZombsRoyale
 // @version      1.0.0
 // @description  try to take over the world!
-// @author       CtrlAltDelete
+// @author       CtrlAltExecute
 // @match        https://zombsroyale.io/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zombsroyale.io
 // @grant        none
